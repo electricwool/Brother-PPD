@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 0)
+  (lib (name "PPD-easyedapro")(type "KiCad")(uri "${KIPRJMOD}/PPD-easyedapro.kicad_sym")(options "")(descr ""))
+)
