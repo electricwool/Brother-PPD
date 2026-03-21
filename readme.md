@@ -19,3 +19,5 @@ the backup SRAM battery and power is eliminated by substituting a cypress FRAM t
 a DIP eeprom is used because the edge connector is not keyed and it needs the case to have a wing out to the side anyway for mechanically keying the chip. 
 
 These work perfectly well without the PROM installed as the SRAM was able to be formatted, store and load patterns with the PROM removed for firmware extraction. 
+
+new version 22/03/26 with CDIP footprint for use with OneROM. some nets fixed due to false positives from the internal capacitance of ICs. awaiting verification.
